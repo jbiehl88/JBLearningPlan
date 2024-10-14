@@ -1,0 +1,7 @@
+Goals
+
+- I will learn Ansible & Python? by following this Learning Plan https://swe-learning-plans.netlify.app/deployment/ansible.html starting on 10/14/2024
+
+- I will finish the Learning Plan linked above by 10/25/2024
+
+- I will eat breakfast every day before work
